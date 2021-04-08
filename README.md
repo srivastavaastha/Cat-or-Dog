@@ -10,7 +10,7 @@ image_classifier by turicreate
 * Splitting data
 * Creating Model
 * Model Evaluation
-* Prediction Results
+* Result Prediction
 ## Credits
 * kaggle.com (dataset)
 * Google (few images) 
